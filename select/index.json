@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "へでもねーよ",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2026-01-04T07:51:30.851727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "へでもねーよ - LASA edit",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_へでもねーよ_-_LASA_edit_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "へでもねーよ - Hedemo Ne-Yo",
+      "artist": "Fujii Kaze",
+      "has_synced": false,
+      "path": "select/02_へでもねーよ_-_Hedemo_Ne-Yo_Fujii_Kaze.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "へでもねーよ",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/03_へでもねーよ_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "へでもねーよ (LASA edit) - Hedemo Ne-Yo (LASA edit)",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/04_へでもねーよ_(LASA_edit)_-_Hedemo_Ne-Yo_(LASA_edit)_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "へでもねーよ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_へでもねーよ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "へでもねーよ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_へでもねーよ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "へでもねーよ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_へでもねーよ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "へでもねーよ (LASA edit)",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_へでもねーよ_(LASA_edit)_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "へでもねーよ - LASA edit",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_05_へでもねーよ_-_LASA_edit_藤井_風.txt"
+    }
+  ]
+}
